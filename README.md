@@ -13,9 +13,9 @@ This is a machine learning web application built with **Streamlit** that predict
 
 ## 📌 WebApp Screenshots
 
-![App Screenshot 1](Ui_1.PNG)
+![App Screenshot 1](Ui_1.png)
 
-![App Screenshot 2](Ui_2.PNG)
+![App Screenshot 2](Ui_2.png)
 
 ---
 
